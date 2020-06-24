@@ -1,22 +1,7 @@
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
 
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
  
 img{
   border: 1px solid #ddd;
-  height: 231.36;
+  height: 250.36;
   width: 231.36;	
 }
